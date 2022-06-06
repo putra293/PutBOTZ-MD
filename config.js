@@ -12,14 +12,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281322667077']
-global.premium = ['6281215710461']
-global.ownername = 'Romli Suhanda'
-global.botname = 'ZxyuuBOTZ-MD'
-global.packname = '© ZxyuuRomm'
+global.owner = ['6283856051043']
+global.premium = ['6283856051043']
+global.ownername = 'Putra Peler'
+global.botname = 'PutzBOTZ-MD'
+global.packname = '© Putra-MD'
 global.gc = 'https://chat.whatsapp.com/ItgtoArOdVD46P7S9cA179'
 global.limitawal = '100'
-global.author = 'XzyuuNaii'
+global.author = 'Zxyuu-AWOK'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
